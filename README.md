@@ -43,19 +43,31 @@ Follow these steps to set up and explore the project:
    cd Digitize-Shopping-TailwindCSS
 
 2. **Install dependencies**:
+
    make sure you have [NODE.JS](https://nodejs.org/en) installed, then run :
    ```bash
    npm install
    
-3. **Run the development server:**
+4. **Run the development server:**
+
    start the project locally with :
    ````bash
    npm run dev
 
-4. **Open your browser:**
+5. **Open your browser:**
+
    visit your localhost to see the magic happen!
    
 ---
 
+## ❤️ Acknowledgments
 
-  
+- Inspired by the beauty of TailwindCSS and the flexibility it provides.
+- Special thanks to [@rhmt01](https://github.com/rhmt01) for creating this awesome project.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it as you like! 🎉
+
