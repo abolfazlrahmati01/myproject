@@ -41,3 +41,21 @@ Follow these steps to set up and explore the project:
    ```bash
    git clone https://github.com/rhmti01/Digitize-Shopping-TailwindCSS.git
    cd Digitize-Shopping-TailwindCSS
+
+2. **Install dependencies**:
+   make sure you have [NODE.JS](https://nodejs.org/en) installed, then run :
+   ```bash
+   npm install
+   
+3. **Run the development server:**
+   start the project locally with :
+   ````bash
+   npm run dev
+
+4. **Open your browser:**
+   visit your localhost to see the magic happen!
+   
+---
+
+
+  
