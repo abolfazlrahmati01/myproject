@@ -60,7 +60,7 @@ Follow these steps to set up and explore the project:
 ## ❤️ Acknowledgments
 
 - Inspired by the beauty of TailwindCSS and the flexibility it provides.
-- Special thanks to [@rhmt01](https://github.com/rhmt01) for creating this awesome project.
+- Special thanks to [@rhmti01](https://github.com/rhmti01) for creating this awesome project.
 
 ---
 
