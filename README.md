@@ -35,7 +35,7 @@ Welcome to **Digitize Shopping**, a modern frontend powered by **TailwindCSS**! 
 
 ## 🌐 Live Demo
 
-Check out the live demo [here](https://your-demo-link.com)!
+Check out the live demo [here](https://digitze-shopping-tailwind-rhmti01.netlify.app/)!
 
 ---
 
