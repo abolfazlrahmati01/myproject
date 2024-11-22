@@ -1,6 +1,6 @@
 # 🚀 Digitize Shopping - TailwindCSS
 
-Welcome to **Digitize Shopping**, a modern e-commerce frontend powered by **TailwindCSS**! Whether you're building the next big online store or just exploring how to create stunning, responsive UIs, this project has got you covered. 💻✨
+Welcome to **Digitize Shopping**, a modern frontend powered by **TailwindCSS**! Whether you're building the next big online store or just exploring how to create stunning, responsive UIs, this project has got you covered. 💻✨
 
 ---
 
